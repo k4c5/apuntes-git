@@ -1,2 +1,2 @@
 ##git add
- agregar un archiv
+ agrear un archiv
