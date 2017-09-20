@@ -9,3 +9,5 @@ sistema de control de versiones
 ## Configurando Git primera vez
 '''hbhjbhb
 lolo
+
+esta l'inea fue creada en la rama master
